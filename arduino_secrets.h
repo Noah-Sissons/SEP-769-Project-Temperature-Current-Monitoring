@@ -1,2 +1,2 @@
-#define SECRET_SSID "SissonsFibre"
-#define SECRET_PASS "happytulip982"
+#define SECRET_SSID ""
+#define SECRET_PASS ""
